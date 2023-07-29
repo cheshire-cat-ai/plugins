@@ -17,5 +17,9 @@
 	},
 	{	"name": "Code Commenter",
 		"url": "https://github.com/nicola-corbellini/cat_code_commenter"
+	},
+	{
+		"name": "Hypothethical Document Embedding",
+		"url": "https://github.com/nicola-corbellini/ccat_hyde_plugin"
 	}
 ]
