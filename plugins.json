@@ -16,10 +16,14 @@
 		"url": "https://github.com/AndreaPesce2002/the-latest-news-in-wonderland"
 	},
 	{	"name": "Code Commenter",
-		"url": "https://github.com/nicola-corbellini/cat_code_commenter"
+		"url": "https://github.com/nicola-corbellini/ccat_code_commenter"
 	},
 	{
 		"name": "Hypothethical Document Embedding",
-		"url": "https://github.com/nicola-corbellini/ccat_hyde_plugin"
+		"url": "https://github.com/nicola-corbellini/ccat_hyde"
+	},
+	{
+		"name": "Summarization",
+		"url": "https://github.com/nicola-corbellini/ccat_summarization"
 	}
 ]
