@@ -25,5 +25,9 @@
 	{
 		"name": "Summarization",
 		"url": "https://github.com/nicola-corbellini/ccat_summarization"
+	},
+	{
+		"name": "Meow Todo List",
+		"url": "https://github.com/pieroit/meow-todo-list"
 	}
 ]
