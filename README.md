@@ -13,20 +13,20 @@ To add your plugin to the directory, you need to submit a Pull Request (PR) with
 2. **JSON Format**: The repository follows a specific JSON format for consistency. The structure of the JSON object look like this, add your as **last** object of the JSON:
 
 ```json
-{
-  "0": {
+[
+  {
     "name": "Plugin name",
     "url": "https://link-to-the-repository"
   },
-  "1": {
+  {
     "name": "Plugin name",
     "url": "https://link-to-the-repository"
   },
-  "2": {
+  {
     "name": "Your awesome plugin name here",
     "url": "https://link-to-the-repository"
   }
-}
+]
 ```
 
 3. **Malicious Code Check**: Our team will conduct a quick review of your plugin to check for any potential malicious code. This is to ensure the safety and security of all users in the community.
@@ -48,7 +48,7 @@ git checkout -b add-your-plugin
 4. Add your plugin entry to the JSON file. Replace the placeholders with your actual plugin details.
 
 ```json
-"125": {
+{
   "name": "Your awesome plugin name",
   "url": "https://link-to-the-repository"
 }

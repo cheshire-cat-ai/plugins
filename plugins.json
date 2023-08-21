@@ -29,5 +29,9 @@
 	{
 		"name": "Meow Todo List",
 		"url": "https://github.com/pieroit/meow-todo-list"
+	},
+	{
+		"name": "PurrCast - Podcast Finder",
+		"url": "https://github.com/EugenioPetulla/PurrCast_Podcast_Finder"
 	}
 ]
