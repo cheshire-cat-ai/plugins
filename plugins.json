@@ -37,5 +37,9 @@
 	{
 		"name": "Dietician",
 		"url": "https://github.com/AlessandroSpallina/ccat-dietician"
+	},
+	{
+		"name": "Debug Server for VSCode",
+		"url": "https://github.com/sambarza/cc-vscode-debugpy"
 	}
 ]
