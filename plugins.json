@@ -41,5 +41,9 @@
 	{
 		"name": "Debug Server for VSCode",
 		"url": "https://github.com/sambarza/cc-vscode-debugpy"
+	},
+	{
+		"name": "CuriousCat",
+		"url": "https://github.com/Furrmidable-Crew/CuriousCat"
 	}
 ]
