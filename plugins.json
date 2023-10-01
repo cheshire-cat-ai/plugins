@@ -45,5 +45,9 @@
 	{
 		"name": "CuriousCat",
 		"url": "https://github.com/Furrmidable-Crew/CuriousCat"
+	},
+	{
+		"name": "Mikrotik",
+		"url": "https://github.com/alessandrobattaglia/mikrotik-cheshire-cat-plugin"
 	}
 ]
