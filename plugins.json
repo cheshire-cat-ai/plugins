@@ -49,5 +49,9 @@
 	{
 		"name": "Mikrotik",
 		"url": "https://github.com/alessandrobattaglia/mikrotik-cheshire-cat-plugin"
+	},
+	{
+		"name": "C.A.T. - Cat Advanced Tools",
+		"url": "https://github.com/Furrmidable-Crew/cat_advanced_tools"
 	}
 ]
