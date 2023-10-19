@@ -65,5 +65,9 @@
 	{
 		"name": "Mock Turtle",
 		"url": "https://github.com/ironblaster/mock_turtle"
-	}
+	},
+	{
+		"name": "Cheshire Cat Prompt Settings",
+		"url": "https://github.com/team-sviluppo/cc_prompt_settings"
+  	}
 ]
