@@ -1,9 +1,5 @@
 [
 	{
-		"name": "AIChatSQL",
-		"url": "https://github.com/Jhonnyr97/AIChatSQL"
-	},
-	{
 		"name": "Mood music for Cheshire Cat",
 		"url": "https://github.com/AndreaPesce2002/mood-music-for-Cheshire-Cat"
 	},
@@ -69,5 +65,9 @@
 	{
 		"name": "Cheshire Cat Prompt Settings",
 		"url": "https://github.com/team-sviluppo/cc_prompt_settings"
-  	}
+  	},
+	{
+		"name": "AIChatSQL",
+		"url": "https://github.com/Jhonnyr97/AIChatSQL"
+	}
 ]
