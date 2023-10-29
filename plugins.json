@@ -69,5 +69,9 @@
 	{
 		"name": "AIChatSQL",
 		"url": "https://github.com/Jhonnyr97/AIChatSQL"
+	},
+	{
+		"name": "Torrent finder for cheshire cat",
+		"url": "https://github.com/Roby91/TorrentFinder4CheshireCat"
 	}
 ]
