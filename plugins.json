@@ -83,6 +83,22 @@
 		"url": "https://github.com/mmassime/cheshire-football-data"
 	},
 	{
+		"name": "Whispering Cat",
+		"url": "https://github.com/Furrmidable-Crew/WhisperingCat"
+	},
+	{
+		"name": "Artistic Cat",
+		"url": "https://github.com/Furrmidable-Crew/artistic_cat"
+	},
+	{
+		"name": "AnalytiBot",
+		"url": "https://github.com/Furrmidable-Crew/AnalytiBot"
+	},
+  {
+		"name": "Mad Hatter Security Assistant",
+		"url": "https://github.com/ethanlacerenza/Mad-Hatter"
+  },
+  {
 		"name": "Cheshire Cat ReRanker",
 		"url": "https://github.com/nickprock/ccat_reranker"
 	}
