@@ -81,5 +81,9 @@
 	{
 		"name": "Cheshire Football Data",
 		"url": "https://github.com/mmassime/cheshire-football-data"
+	},
+	{
+		"name": "Cheshire Cat ReRanker",
+		"url": "https://github.com/nickprock/ccat_reranker"
 	}
 ]
