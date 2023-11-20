@@ -97,5 +97,9 @@
   {
 		"name": "Mad Hatter Security Assistant",
 		"url": "https://github.com/ethanlacerenza/Mad-Hatter"
-  }
+  },
+  {
+		"name": "Cheshire Cat ReRanker",
+		"url": "https://github.com/nickprock/ccat_reranker"
+	}
 ]
