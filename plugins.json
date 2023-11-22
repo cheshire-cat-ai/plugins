@@ -101,5 +101,9 @@
 	{
 		"name": "Cheshire Cat ReRanker",
 		"url": "https://github.com/nickprock/ccat_reranker"
+	},
+	{
+		"name": "The catSCII artist",
+		"url": "https://github.com/kodaline/the-catscii-artist"
 	}
 ]
