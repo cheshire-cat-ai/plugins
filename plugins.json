@@ -113,5 +113,10 @@
 	{
 		"name": "Ingest Anything",
 		"url": "https://github.com/Furrmidable-Crew/IngestAnything"
+	},
+	{
+		"name": "Catnip",
+		"url": "https://github.com/DevPres/catnip"
 	}
+
 ]
