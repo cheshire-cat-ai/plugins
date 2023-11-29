@@ -113,5 +113,9 @@
 	{
 		"name": "Ingest Anything",
 		"url": "https://github.com/Furrmidable-Crew/IngestAnything"
+	},
+	{
+		"name": "GLaDOS",
+		"url": "https://github.com/valentimarco/GLaDOS"
 	}
 ]
