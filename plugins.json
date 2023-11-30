@@ -115,7 +115,11 @@
 		"url": "https://github.com/Furrmidable-Crew/IngestAnything"
 	},
 	{
-		"name": "GLaDOS",
+		"name": "Catnip",
+		"url": "https://github.com/DevPres/catnip"
+	},
+  {
+    "name": "GLaDOS",
 		"url": "https://github.com/valentimarco/GLaDOS"
-	}
+  }
 ]
