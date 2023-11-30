@@ -118,8 +118,8 @@
 		"name": "Catnip",
 		"url": "https://github.com/DevPres/catnip"
 	},
-  {
-    "name": "GLaDOS",
+  	{
+    		"name": "GLaDOS",
 		"url": "https://github.com/valentimarco/GLaDOS"
-  }
+  	}
 ]
