@@ -118,8 +118,16 @@
 		"name": "Catnip",
 		"url": "https://github.com/DevPres/catnip"
 	},
-  	{
-    		"name": "GLaDOS",
+	{
+		"name": "GLaDOS",
 		"url": "https://github.com/valentimarco/GLaDOS"
-  	}
+	},
+	{
+		"name": "Cat Puppy",
+		"url": "https://github.com/MaxDam/cat-puppy"
+	},
+	{
+		"name": "Cat Form",
+		"url": "https://github.com/MaxDam/cat-form"
+	}
 ]
