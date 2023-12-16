@@ -129,5 +129,9 @@
 	{
 		"name": "Cat Form",
 		"url": "https://github.com/MaxDam/cat-form"
+	},
+	{
+		"name": "Query Cat",
+		"url": "https://github.com/MaxDam/query-cat"
 	}
 ]
