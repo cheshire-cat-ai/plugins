@@ -133,5 +133,9 @@
 	{
 		"name": "Query Cat",
 		"url": "https://github.com/MaxDam/query-cat"
+	},
+	{
+  		"name": "Mycroft Cat",
+  		"url": "https://github.com/pazoff/Mycroft-Cat"
 	}
 ]
