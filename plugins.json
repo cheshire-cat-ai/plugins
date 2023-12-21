@@ -129,5 +129,9 @@
 	{
   		"name": "Mycroft Cat",
   		"url": "https://github.com/pazoff/Mycroft-Cat"
+	},
+	{
+		"name": "CCbooks",
+  		"url": "https://github.com/rinaldilab/CCbooks-Books-Finder"
 	}
 ]
