@@ -7,7 +7,8 @@
 		"name": "The latest news in wonderland",
 		"url": "https://github.com/AndreaPesce2002/the-latest-news-in-wonderland"
 	},
-	{	"name": "Code Commenter",
+	{
+		"name": "Code Commenter",
 		"url": "https://github.com/nicola-corbellini/ccat_code_commenter"
 	},
 	{
@@ -57,7 +58,7 @@
 	{
 		"name": "Cheshire Cat Prompt Settings",
 		"url": "https://github.com/team-sviluppo/cc_prompt_settings"
-  	},
+	},
 	{
 		"name": "AIChatSQL",
 		"url": "https://github.com/Jhonnyr97/AIChatSQL"
@@ -127,11 +128,15 @@
 		"url": "https://github.com/MaxDam/query-cat"
 	},
 	{
-  		"name": "Mycroft Cat",
-  		"url": "https://github.com/pazoff/Mycroft-Cat"
+		"name": "Mycroft Cat",
+		"url": "https://github.com/pazoff/Mycroft-Cat"
 	},
 	{
-  		"name": "Meowgram Connect",
-  		"url": "https://github.com/Pingdred/Meowgram-connect"
+		"name": "Meowgram Connect",
+		"url": "https://github.com/Pingdred/Meowgram-connect"
+	},
+	{
+		"name": "Feed the Cat",
+		"url": "https://github.com/davidegavio/feed-the-cat"
 	},
 ]
