@@ -135,12 +135,8 @@
 		"name": "Meowgram Connect",
 		"url": "https://github.com/Pingdred/Meowgram-connect"
 	},
-  {
-  		"name": "Meowgram Connect",
-  		"url": "https://github.com/Pingdred/Meowgram-connect"
-	},
 	{
 		"name": "Feed the Cat",
 		"url": "https://github.com/davidegavio/feed-the-cat"
-	},
+	}
 ]
