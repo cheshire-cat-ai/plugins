@@ -1,0 +1,31 @@
+name: JSON Validation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install jsonlint
+        run: npm install -g jsonlint
+
+      - name: Validate JSON
+        run: |
+          jsonlint -q plugins.json
+
+      - name: Check JSON validation result
+        run: |
+          if [ $? -ne 0 ]; then
+            echo "Invalid JSON. Merging or pushing is not allowed."
+            exit 1
+          fi
