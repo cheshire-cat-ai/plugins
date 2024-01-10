@@ -150,5 +150,9 @@
   	{
 		"name": "Google Cat",
     		"url": "https://github.com/pazoff/Google-Cat-Plugin"
+	},
+  	{
+		"name": "Related Questions",
+    		"url": "https://github.com/pazoff/Related-Questions-Plugin"
 	}
 ]
