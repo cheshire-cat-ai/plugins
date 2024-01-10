@@ -140,11 +140,15 @@
 		"url": "https://github.com/davidegavio/feed-the-cat"
 	},
 	{
-	  "name": "Rabbithole Segmentation",
-	  "url": "https://github.com/team-sviluppo/cc_rabbithole_segmentation"
-  },
-  {
+	  	"name": "Rabbithole Segmentation",
+	  	"url": "https://github.com/team-sviluppo/cc_rabbithole_segmentation"
+  	},
+  	{
 		"name": "CCbooks",
-    "url": "https://github.com/rinaldilab/CCbooks-Books-Finder"
+    		"url": "https://github.com/rinaldilab/CCbooks-Books-Finder"
+	},
+  	{
+		"name": "Google Cat",
+    		"url": "https://github.com/pazoff/Google-Cat-Plugin"
 	}
 ]
