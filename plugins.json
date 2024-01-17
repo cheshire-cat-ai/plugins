@@ -166,6 +166,10 @@
 	{
 		"name": "Jina-Integration",
     		"url": "https://github.com/valentimarco/Jina-Integration"
+	},
+	{
+		"name": "Stable Diffusion Cat",
+    		"url": "https://github.com/pazoff/Stable-Diffusion-Cat"
 	}
 	
 ]
