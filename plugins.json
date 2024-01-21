@@ -170,6 +170,10 @@
 	{
 		"name": "Stable Diffusion Cat",
     		"url": "https://github.com/pazoff/Stable-Diffusion-Cat"
+	},
+	{
+		"name": "FireworksAI-Integration",
+    		"url": "https://github.com/valentimarco/Fireworks-integration"
 	}
 	
 ]
