@@ -178,6 +178,10 @@
 	{
 		"name": "PDF to Audio Cat",
     		"url": "https://github.com/pazoff/PDF-to-Audio-Plugin"
+	},
+	{
+		"name": "Bing Image Creator Cat",
+    		"url": "https://github.com/pazoff/Bing-Image-Creator-Cat"
 	}
 	
 ]
