@@ -176,6 +176,9 @@
     		"url": "https://github.com/valentimarco/Fireworks-integration"
 	},
 	{
+		"name": "Sbert-Integration",
+    		"url": "https://github.com/nickprock/sbert-integration"
+  },
 		"name": "PDF to Audio Cat",
     		"url": "https://github.com/pazoff/PDF-to-Audio-Plugin"
 	},
