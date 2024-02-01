@@ -186,6 +186,10 @@
 	{
 		"name": "Bing Image Creator Cat",
     		"url": "https://github.com/pazoff/Bing-Image-Creator-Cat"
+	},
+	{
+		"name": "FinCat - ETF Checker",
+    		"url": "https://github.com/theperu/FinCat-ETF-Checker"
 	}
 	
 ]
