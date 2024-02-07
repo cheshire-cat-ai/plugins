@@ -190,6 +190,10 @@
 	{
 		"name": "FinCat - ETF Checker",
     		"url": "https://github.com/theperu/FinCat-ETF-Checker"
+	},
+	{
+		"name": "Wolfram Alpha Cat",
+    		"url": "https://github.com/pazoff/wolfram-alpha-cat"
 	}
 	
 ]
