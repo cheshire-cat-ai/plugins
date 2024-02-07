@@ -1,200 +1,200 @@
 [
-	{
-		"name": "Mood music for Cheshire Cat",
-		"url": "https://github.com/AndreaPesce2002/mood-music-for-Cheshire-Cat"
-	},
-	{
-		"name": "The latest news in wonderland",
-		"url": "https://github.com/AndreaPesce2002/the-latest-news-in-wonderland"
-	},
-	{
-		"name": "Code Commenter",
-		"url": "https://github.com/nicola-corbellini/ccat_code_commenter"
-	},
-	{
-		"name": "Hypothethical Document Embedding",
-		"url": "https://github.com/Furrmidable-Crew/ccat_hyde"
-	},
-	{
-		"name": "Summarization",
-		"url": "https://github.com/Furrmidable-Crew/ccat_summarization"
-	},
-	{
-		"name": "Meow Todo List",
-		"url": "https://github.com/pieroit/meow-todo-list"
-	},
-	{
-		"name": "PurrCast - Podcast Finder",
-		"url": "https://github.com/EugenioPetulla/PurrCast_Podcast_Finder"
-	},
-	{
-		"name": "Dietician",
-		"url": "https://github.com/AlessandroSpallina/ccat-dietician"
-	},
-	{
-		"name": "Debug Server for VSCode",
-		"url": "https://github.com/sambarza/cc-vscode-debugpy"
-	},
-	{
-		"name": "CuriousCat",
-		"url": "https://github.com/Furrmidable-Crew/CuriousCat"
-	},
-	{
-		"name": "Mikrotik",
-		"url": "https://github.com/alessandrobattaglia/mikrotik-cheshire-cat-plugin"
-	},
-	{
-		"name": "C.A.T. - Cat Advanced Tools",
-		"url": "https://github.com/Furrmidable-Crew/cat_advanced_tools"
-	},
-	{
-		"name": "Wonderland Weather",
-		"url": "https://github.com/ironblaster/wonderland-weather"
-	},
-	{
-		"name": "Mock Turtle",
-		"url": "https://github.com/ironblaster/mock_turtle"
-	},
-	{
-		"name": "Cheshire Cat Prompt Settings",
-		"url": "https://github.com/team-sviluppo/cc_prompt_settings"
-	},
-	{
-		"name": "AIChatSQL",
-		"url": "https://github.com/Jhonnyr97/AIChatSQL"
-	},
-	{
-		"name": "Gerry Scatty",
-		"url": "https://github.com/Furrmidable-Crew/gerry-scatty"
-	},
-	{
-		"name": "Lost In The Middle",
-		"url": "https://github.com/Furrmidable-Crew/lost-in-the-middle"
-	},
-	{
-		"name": "Cheshire Football Data",
-		"url": "https://github.com/mmassime/cheshire-football-data"
-	},
-	{
-		"name": "Whispering Cat",
-		"url": "https://github.com/Furrmidable-Crew/Whispering_Cat"
-	},
-	{
-		"name": "Meow Art",
-		"url": "https://github.com/Furrmidable-Crew/Meow_Art"
-	},
-	{
-		"name": "AnalytiBot",
-		"url": "https://github.com/Furrmidable-Crew/AnalytiBot"
-	},
-	{
-		"name": "Cat Eyes",
-		"url": "https://github.com/Furrmidable-Crew/Cat_Eyes"
-	},
-	{
-		"name": "Mad Hatter Security Assistant",
-		"url": "https://github.com/ethanlacerenza/Mad-Hatter"
-	},
-	{
-		"name": "Cheshire Cat ReRanker",
-		"url": "https://github.com/nickprock/ccat_reranker"
-	},
-	{
-		"name": "The catSCII artist",
-		"url": "https://github.com/kodaline/the-catscii-artist"
-	},
-	{
-		"name": "Ingest Anything",
-		"url": "https://github.com/Furrmidable-Crew/IngestAnything"
-	},
-	{
-		"name": "Catnip",
-		"url": "https://github.com/DevPres/catnip"
-	},
-	{
-		"name": "GLaDOS",
-		"url": "https://github.com/valentimarco/GLaDOS"
-	},
-	{
-		"name": "Cat Puppy",
-		"url": "https://github.com/MaxDam/cat-puppy"
-	},
-	{
-		"name": "Cat Form",
-		"url": "https://github.com/MaxDam/cat-form"
-	},
-	{
-		"name": "Query Cat",
-		"url": "https://github.com/MaxDam/query-cat"
-	},
-	{
-		"name": "Mycroft Cat",
-		"url": "https://github.com/pazoff/Mycroft-Cat"
-	},
-	{
-		"name": "Meowgram Connect",
-		"url": "https://github.com/Pingdred/Meowgram-connect"
-	},
-	{
-		"name": "Feed the Cat",
-		"url": "https://github.com/davidegavio/feed-the-cat"
-	},
-	{
-	  "name": "Rabbithole Segmentation",
-	  "url": "https://github.com/team-sviluppo/cc_rabbithole_segmentation"
+  {
+    "name": "Mood music for Cheshire Cat",
+    "url": "https://github.com/AndreaPesce2002/mood-music-for-Cheshire-Cat"
   },
   {
-		"name": "CCbooks",
+    "name": "The latest news in wonderland",
+    "url": "https://github.com/AndreaPesce2002/the-latest-news-in-wonderland"
+  },
+  {
+    "name": "Code Commenter",
+    "url": "https://github.com/nicola-corbellini/ccat_code_commenter"
+  },
+  {
+    "name": "Hypothethical Document Embedding",
+    "url": "https://github.com/Furrmidable-Crew/ccat_hyde"
+  },
+  {
+    "name": "Summarization",
+    "url": "https://github.com/Furrmidable-Crew/ccat_summarization"
+  },
+  {
+    "name": "Meow Todo List",
+    "url": "https://github.com/pieroit/meow-todo-list"
+  },
+  {
+    "name": "PurrCast - Podcast Finder",
+    "url": "https://github.com/EugenioPetulla/PurrCast_Podcast_Finder"
+  },
+  {
+    "name": "Dietician",
+    "url": "https://github.com/AlessandroSpallina/ccat-dietician"
+  },
+  {
+    "name": "Debug Server for VSCode",
+    "url": "https://github.com/sambarza/cc-vscode-debugpy"
+  },
+  {
+    "name": "CuriousCat",
+    "url": "https://github.com/Furrmidable-Crew/CuriousCat"
+  },
+  {
+    "name": "Mikrotik",
+    "url": "https://github.com/alessandrobattaglia/mikrotik-cheshire-cat-plugin"
+  },
+  {
+    "name": "C.A.T. - Cat Advanced Tools",
+    "url": "https://github.com/Furrmidable-Crew/cat_advanced_tools"
+  },
+  {
+    "name": "Wonderland Weather",
+    "url": "https://github.com/ironblaster/wonderland-weather"
+  },
+  {
+    "name": "Mock Turtle",
+    "url": "https://github.com/ironblaster/mock_turtle"
+  },
+  {
+    "name": "Cheshire Cat Prompt Settings",
+    "url": "https://github.com/team-sviluppo/cc_prompt_settings"
+  },
+  {
+    "name": "AIChatSQL",
+    "url": "https://github.com/Jhonnyr97/AIChatSQL"
+  },
+  {
+    "name": "Gerry Scatty",
+    "url": "https://github.com/Furrmidable-Crew/gerry-scatty"
+  },
+  {
+    "name": "Lost In The Middle",
+    "url": "https://github.com/Furrmidable-Crew/lost-in-the-middle"
+  },
+  {
+    "name": "Cheshire Football Data",
+    "url": "https://github.com/mmassime/cheshire-football-data"
+  },
+  {
+    "name": "Whispering Cat",
+    "url": "https://github.com/Furrmidable-Crew/Whispering_Cat"
+  },
+  {
+    "name": "Meow Art",
+    "url": "https://github.com/Furrmidable-Crew/Meow_Art"
+  },
+  {
+    "name": "AnalytiBot",
+    "url": "https://github.com/Furrmidable-Crew/AnalytiBot"
+  },
+  {
+    "name": "Cat Eyes",
+    "url": "https://github.com/Furrmidable-Crew/Cat_Eyes"
+  },
+  {
+    "name": "Mad Hatter Security Assistant",
+    "url": "https://github.com/ethanlacerenza/Mad-Hatter"
+  },
+  {
+    "name": "Cheshire Cat ReRanker",
+    "url": "https://github.com/nickprock/ccat_reranker"
+  },
+  {
+    "name": "The catSCII artist",
+    "url": "https://github.com/kodaline/the-catscii-artist"
+  },
+  {
+    "name": "Ingest Anything",
+    "url": "https://github.com/Furrmidable-Crew/IngestAnything"
+  },
+  {
+    "name": "Catnip",
+    "url": "https://github.com/DevPres/catnip"
+  },
+  {
+    "name": "GLaDOS",
+    "url": "https://github.com/valentimarco/GLaDOS"
+  },
+  {
+    "name": "Cat Puppy",
+    "url": "https://github.com/MaxDam/cat-puppy"
+  },
+  {
+    "name": "Cat Form",
+    "url": "https://github.com/MaxDam/cat-form"
+  },
+  {
+    "name": "Query Cat",
+    "url": "https://github.com/MaxDam/query-cat"
+  },
+  {
+    "name": "Mycroft Cat",
+    "url": "https://github.com/pazoff/Mycroft-Cat"
+  },
+  {
+    "name": "Meowgram Connect",
+    "url": "https://github.com/Pingdred/Meowgram-connect"
+  },
+  {
+    "name": "Feed the Cat",
+    "url": "https://github.com/davidegavio/feed-the-cat"
+  },
+  {
+    "name": "Rabbithole Segmentation",
+    "url": "https://github.com/team-sviluppo/cc_rabbithole_segmentation"
+  },
+  {
+    "name": "CCbooks",
     "url": "https://github.com/rinaldilab/CCbooks-Books-Finder"
-	},
+  },
   {
-		"name": "Google Cat",
+    "name": "Google Cat",
     "url": "https://github.com/pazoff/Google-Cat-Plugin"
-	},
+  },
   {
-		"name": "Related Questions",
+    "name": "Related Questions",
     "url": "https://github.com/pazoff/Related-Questions-Plugin"
-	},
-	{
-		"name": "MistralAI-Integration",
+  },
+  {
+    "name": "MistralAI-Integration",
     "url": "https://github.com/valentimarco/MistralAI-Integration"
-	},
-	{
-		"name": "Ollama-Fix",
+  },
+  {
+    "name": "Ollama-Fix",
     "url": "https://github.com/valentimarco/Ollama-Fix"
-	},
-	{
-		"name": "Jina-Integration",
+  },
+  {
+    "name": "Jina-Integration",
     "url": "https://github.com/valentimarco/Jina-Integration"
-	},
-	{
-		"name": "Stable Diffusion Cat",
+  },
+  {
+    "name": "Stable Diffusion Cat",
     "url": "https://github.com/pazoff/Stable-Diffusion-Cat"
-	},
-	{
-		"name": "FireworksAI-Integration",
+  },
+  {
+    "name": "FireworksAI-Integration",
     "url": "https://github.com/valentimarco/Fireworks-integration"
-	},
-	{
-		"name": "Sbert-Integration",
+  },
+  {
+    "name": "Sbert-Integration",
     "url": "https://github.com/nickprock/sbert-integration"
   },
-	{
-		"name": "PDF to Audio Cat",
+  {
+    "name": "PDF to Audio Cat",
     "url": "https://github.com/pazoff/PDF-to-Audio-Plugin"
-	},
-	{
-		"name": "Bing Image Creator Cat",
+  },
+  {
+    "name": "Bing Image Creator Cat",
     "url": "https://github.com/pazoff/Bing-Image-Creator-Cat"
-	},
-	{
-		"name": "FinCat - ETF Checker",
+  },
+  {
+    "name": "FinCat - ETF Checker",
     "url": "https://github.com/theperu/FinCat-ETF-Checker"
-	},
-	{
-		"name": "Wolfram Alpha Cat",
+  },
+  {
+    "name": "Wolfram Alpha Cat",
     "url": "https://github.com/pazoff/wolfram-alpha-cat"
-	},
+  },
   {
     "name": "XLLent",
     "url": "https://github.com/Cawabonga94/XLLent"
