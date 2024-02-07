@@ -190,6 +190,9 @@
 	{
 		"name": "FinCat - ETF Checker",
     		"url": "https://github.com/theperu/FinCat-ETF-Checker"
+	},
+	{
+		"name": "XLLent",
+    		"url": "https://github.com/Cawabonga94/XLLent"
 	}
-	
 ]
