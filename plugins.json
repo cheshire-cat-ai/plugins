@@ -202,5 +202,9 @@
   {
     "name": "Alert Cat",
     "url": "https://github.com/pazoff/Alert-Cat"
+  },
+  {
+    "name": "Hugging Face Embedder Endpoint",
+    "url": "https://github.com/alessioserra/hugging_face_embedder"
   }
 ]
