@@ -204,6 +204,10 @@
     "url": "https://github.com/pazoff/Alert-Cat"
   },
   {
+    "name": "Hugging Face Embedder Endpoint",
+    "url": "https://github.com/alessioserra/hugging_face_embedder"
+  },
+  {
     "name": "TogetherAI Integration",
     "url": "https://github.com/valentimarco/Together-AI-Integration"
   }
