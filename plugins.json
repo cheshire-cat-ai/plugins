@@ -210,5 +210,13 @@
   {
     "name": "TogetherAI Integration",
     "url": "https://github.com/valentimarco/Together-AI-Integration"
+  },
+  {
+    "name": "Scrapy Cat",
+    "url": "https://github.com/team-sviluppo/cc_scrapycat"
+  },
+  {
+    "name": "URL content in prompt",
+    "url": "https://github.com/team-sviluppo/cc_urlcontent_prompt/"
   }
 ]
