@@ -226,5 +226,9 @@
   {
     "name": "Brainstorm Cat",
     "url": "https://github.com/pazoff/brainstorm-cat"
+  },
+  {
+    "name": "GroqAI Integration",
+    "url": "https://github.com/pazoff/GroqAI-Integration"
   }
 ]
