@@ -230,5 +230,9 @@
   {
     "name": "GroqAI Integration",
     "url": "https://github.com/pazoff/GroqAI-Integration"
+  },
+  {
+    "name": "Ollama Embeddings Integration",
+    "url": "https://github.com/pazoff/ollama-embeddings-integration"
   }
 ]
