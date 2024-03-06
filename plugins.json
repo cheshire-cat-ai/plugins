@@ -230,5 +230,13 @@
   {
     "name": "Who Are You?",
     "url": "https://github.com/ElisaDistante/who_are_you"
+  },
+  {
+    "name": "GroqAI Integration",
+    "url": "https://github.com/pazoff/GroqAI-Integration"
+  },
+  {
+    "name": "Ollama Embeddings Integration",
+    "url": "https://github.com/pazoff/ollama-embeddings-integration"
   }
 ]
