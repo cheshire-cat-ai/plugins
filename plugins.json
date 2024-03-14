@@ -242,5 +242,9 @@
   {
     "name": "Cat Suggestions",
     "url": "https://github.com/vverrastro/cat-suggestions"
+  },
+  {
+    "name": "Claude AI",
+    "url": "https://github.com/momysnow/claude"
   }
 ]
