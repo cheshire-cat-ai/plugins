@@ -246,5 +246,9 @@
   {
     "name": "Zotero Scholar",
     "url": "https://github.com/sanketsabharwal/ZoteroScholar-CheshireCatAI"
+  },
+  {
+    "name": "Claude AI",
+    "url": "https://github.com/momysnow/claude"
   }
 ]
