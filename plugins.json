@@ -246,5 +246,9 @@
   {
     "name": "Zotero Scholar",
     "url": "https://github.com/sanketsabharwal/ZoteroScholar-CheshireCatAI"
+  },
+  {
+    "name": "RecURLsive",
+    "url": "https://github.com/mattiamazzari/recursive-url"
   }
 ]
