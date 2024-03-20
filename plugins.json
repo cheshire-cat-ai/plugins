@@ -258,5 +258,9 @@
   {
     "name": "RecURLsive",
     "url": "https://github.com/mattiamazzari/recursive-url"
+  },
+  {
+    "name": "HA Agent",
+    "url": "https://github.com/lucagobbi/ha_agent"
   }
 ]
