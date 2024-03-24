@@ -262,5 +262,9 @@
   {
     "name": "HA Agent",
     "url": "https://github.com/lucagobbi/ha_agent"
+  },
+  {
+    "name": "Purrfectly Clear Background",
+    "url": "https://github.com/enricollen/Purrfectly_Clear_Background"
   }
 ]
