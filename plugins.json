@@ -270,5 +270,9 @@
   {
     "name": "Purrfectly Clear Background",
     "url": "https://github.com/enricollen/Purrfectly_Clear_Background"
+  },
+  {
+    "name": "Declarative Memory Profiling",
+    "url": "https://github.com/marcoserafini2/declarative_memory_profiling"
   }
 ]
