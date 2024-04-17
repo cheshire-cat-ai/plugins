@@ -282,5 +282,9 @@
   {
     "name": "Medical Cat",
     "url": "https://github.com/pazoff/medical-cat"
+  },
+  {
+    "name": "Html Parser",
+    "url": "https://github.com/mimir-chatbot/html-parser"
   }
 ]
