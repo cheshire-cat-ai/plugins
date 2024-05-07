@@ -302,5 +302,9 @@
   {
     "name": "Matryoshka Embeddings",
     "url": "https://github.com/nickprock/matryoshka-embeddings"
+  },
+  {
+    "name": "TTS powered by OpenAI",
+    "url": "https://github.com/Pingdred/openai-tts"
   }
 ]
