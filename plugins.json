@@ -298,5 +298,9 @@
   {
     "name": "Youtube 2 Text",
     "url": "https://github.com/rafleze/youtube2text"
+  },
+  {
+    "name": "Matryoshka Embeddings",
+    "url": "https://github.com/nickprock/matryoshka-embeddings"
   }
 ]
