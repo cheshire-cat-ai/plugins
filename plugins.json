@@ -306,5 +306,9 @@
   {
     "name": "TTS powered by OpenAI",
     "url": "https://github.com/Pingdred/openai-tts"
+  },
+  {
+    "name": "CatLendar",
+    "url": "https://github.com/The-Golden-At-SRL/CatLendar"
   }
 ]
