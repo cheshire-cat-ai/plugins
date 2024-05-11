@@ -310,5 +310,9 @@
   {
     "name": "CatLendar",
     "url": "https://github.com/The-Golden-At-SRL/CatLendar"
+  },
+  {
+    "name": "Semantic Chunking",
+    "url": "https://github.com/nickprock/ccat_semantic_chunking"
   }
 ]
