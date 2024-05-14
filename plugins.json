@@ -314,5 +314,9 @@
   {
     "name": "Semantic Chunking",
     "url": "https://github.com/nickprock/ccat_semantic_chunking"
+  },
+  {
+    "name": "CATalogator",
+    "url": "https://github.com/Fede91/catalogator"
   }
 ]
