@@ -326,5 +326,9 @@
   {
     "name": "DuckCatGo",
     "url": "https://github.com/giacomo83m/duckcatgo"
+  },
+  {
+    "name": "Auto metadata chunk and filter",
+    "url": "https://github.com/ElioErrico/Auto_metadata_chunk_and_filter"
   }
 ]
