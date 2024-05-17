@@ -322,5 +322,10 @@
   {
     "name": "Piper Cat",
     "url": "https://github.com/pazoff/Piper-Cat"
+  },
+  {
+    "name": "Auto metadata chunk and filter",
+    "url": "https://github.com/ElioErrico/Auto_metadata_chunk_and_filter"
   }
+  
 ]
