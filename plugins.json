@@ -330,5 +330,9 @@
   {
     "name": "Auto metadata chunk and filter",
     "url": "https://github.com/ElioErrico/Auto_metadata_chunk_and_filter"
+  },
+  {
+    "name": "Transcription for YouTube videos",
+    "url": "https://github.com/Sakyce/cheshire_summarize_video"
   }
 ]
