@@ -334,5 +334,9 @@
   {
     "name": "Transcription for YouTube videos",
     "url": "https://github.com/Sakyce/cheshire_summarize_video"
+  },
+  {
+    "name": "Cheshire Cat AI Conversation Logger",
+    "url": "https://github.com/skeyby/ccat_conversation_logger"
   }
 ]
