@@ -338,5 +338,17 @@
   {
     "name": "Cheshire Cat AI Conversation Logger",
     "url": "https://github.com/skeyby/ccat_conversation_logger"
+  },
+  {
+    "name": "AWS Client Configuration Manager",
+    "url": "https://github.com/ggiallo28/aws-integration"
+  },
+  {
+    "name": "Amazon Bedrock Embedders",
+    "url": "https://github.com/ggiallo28/amazon-bedrock-embedders"
+  },
+  {
+    "name": "Amazon Bedrock LLMs",
+    "url": "https://github.com/ggiallo28/amazon-bedrock-llms"
   }
 ]
