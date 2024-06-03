@@ -336,12 +336,12 @@
     "url": "https://github.com/Sakyce/cheshire_summarize_video"
   },
   {
-    "name": "Delete docs with metadata filter",
-    "url": "https://github.com/ElioErrico/CAT_delete_doc_with_metadata_filter"
-  },
-  {
     "name": "Cheshire Cat AI Conversation Logger",
     "url": "https://github.com/skeyby/ccat_conversation_logger"
+  },
+  {
+    "name": "Delete docs with metadata filter",
+    "url": "https://github.com/ElioErrico/CAT_delete_doc_with_metadata_filter"
   },
   {
     "name": "AWS Client Configuration Manager",
