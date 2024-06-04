@@ -354,5 +354,9 @@
   {
     "name": "Amazon Bedrock LLMs",
     "url": "https://github.com/ggiallo28/amazon-bedrock-llms"
+  },
+  {
+    "name": "Aleph Alpha Integration",
+    "url": "https://github.com/nickprock/aleph-alpha-integration"
   }
 ]
