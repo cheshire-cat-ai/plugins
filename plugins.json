@@ -358,5 +358,9 @@
   {
     "name": "Aleph Alpha Integration",
     "url": "https://github.com/nickprock/aleph-alpha-integration"
+  },
+  {
+    "name": "Formulas Fur Latex",
+    "url": "https://github.com/enricollen/FormulasFurLatex"
   }
 ]
