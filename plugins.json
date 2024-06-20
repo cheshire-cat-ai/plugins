@@ -1,9 +1,5 @@
 [
   {
-    "name": "Local Whisper Cat",
-    "url": "https://github.com/LorenzoSiena/local_whisper_cat"
-  },
-  {
     "name": "Mood music for Cheshire Cat",
     "url": "https://github.com/AndreaPesce2002/mood-music-for-Cheshire-Cat"
   },
@@ -370,5 +366,9 @@
   {
     "name": "White Rabbit In Action",
     "url": "https://github.com/lucagobbi/white-rabbit-in-action"
+  },
+  {
+    "name": "Local Whisper Cat",
+    "url": "https://github.com/LorenzoSiena/local_whisper_cat"
   }
 ]
