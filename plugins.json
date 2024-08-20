@@ -375,8 +375,12 @@
     "name": "YTWrAIter",
     "url": "https://github.com/chemickypes/YTWrAIter"
   },
-    {
+  {
     "name": "Regolo.ai LLM integration",
     "url": "https://github.com/regolo-ai/cheshirecat-plugin"
+  },
+  {
+    "name": "Query Compressor",
+    "url": "https://github.com/pieroit/query_compressor"
   }
 ]
