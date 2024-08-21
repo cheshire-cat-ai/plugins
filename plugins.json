@@ -382,5 +382,9 @@
   {
     "name": "Query Compressor",
     "url": "https://github.com/pieroit/query_compressor"
+  },
+  {
+    "name": "Haloperidol - No hallucinations",
+    "url": "https://github.com/pieroit/haloperidol"
   }
 ]
