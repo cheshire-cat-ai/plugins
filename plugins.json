@@ -394,5 +394,9 @@
   {
     "name": "Dot Commands",
     "url": "https://github.com/sambarza/cc-dot-commands"
+  },
+  {
+    "name": "Weather plugin",
+    "url": "https://github.com/Slav0DPigna/Weather-plugin"
   }
 ]
