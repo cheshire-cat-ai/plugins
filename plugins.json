@@ -394,5 +394,9 @@
   {
     "name": "Weather plugin",
     "url": "https://github.com/Slav0DPigna/Weather-plugin"
+  },
+  {
+    "name": "Catcloak",
+    "url": "https://github.com/lucagobbi/catcloak"
   }
 ]
