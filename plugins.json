@@ -398,5 +398,9 @@
   {
     "name": "Catcloak",
     "url": "https://github.com/lucagobbi/catcloak"
+  },
+  {
+    "name": "Ccat Groups",
+    "url": "https://github.com/Tiestaa/ccat_groups"
   }
 ]
