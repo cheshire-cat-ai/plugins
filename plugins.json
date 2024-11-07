@@ -418,5 +418,9 @@
   {
     "name": "Sitemap Crawler",
     "url": "https://github.com/alessandrodorazio/sitemap-crawler"
+  },
+  {
+    "name": "Voyage AI Embeddings",
+    "url": "https://github.com/lucagobbi/voyageai"
   }
 ]
