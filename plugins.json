@@ -422,5 +422,9 @@
   {
     "name": "Voyage AI Embeddings",
     "url": "https://github.com/lucagobbi/voyageai"
+  },
+  {
+    "name": "Folder Ingestor",
+    "url": "https://github.com/davidebizzocchi/folder-ingestor"
   }
 ]
