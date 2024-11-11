@@ -422,5 +422,9 @@
   {
     "name": "Voyage AI Embeddings",
     "url": "https://github.com/lucagobbi/voyageai"
+  },
+  {
+    "name": "Miaotore",
+    "url": "https://github.com/davidebizzocchi/miaotore"
   }
 ]
