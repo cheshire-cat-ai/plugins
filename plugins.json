@@ -430,5 +430,9 @@
   {
     "name": "Folder Ingestor",
     "url": "https://github.com/davidebizzocchi/folder-ingestor"
+  },
+  {
+    "name": "Magic Arbiter AI",
+    "url": "https://github.com/vancif/cat-magic-arbiter"
   }
 ]
