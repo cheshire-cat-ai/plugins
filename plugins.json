@@ -434,5 +434,9 @@
   {
     "name": "Magic Arbiter AI",
     "url": "https://github.com/vancif/cat-magic-arbiter"
+  },
+  {
+    "name": "Cat File Generator",
+    "url": "https://github.com/davidegavio/cat-file-generator"
   }
 ]
