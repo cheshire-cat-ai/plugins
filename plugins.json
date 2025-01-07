@@ -442,5 +442,9 @@
   {
     "name": "SuperCatForm",
     "url": "https://github.com/lucagobbi/super-cat-form"
+  },
+  {
+  "name": "Header and Footer CATter",
+  "url": "https://github.com/mallibus/header_footer_cat_plugin"
   }
 ]
