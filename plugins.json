@@ -458,5 +458,9 @@
   {
     "name": "Moon - fAIry",
     "url": "https://github.com/tresanti/moon_fairy_plugin"
+  },
+  {
+    "name": "Run Python",
+    "url": "https://github.com/Pingdred/run_python"
   }
 ]
