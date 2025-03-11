@@ -332,10 +332,6 @@
     "url": "https://github.com/ElioErrico/Auto_metadata_chunk_and_filter"
   },
   {
-    "name": "Transcription for YouTube videos",
-    "url": "https://github.com/Sakyce/cheshire_summarize_video"
-  },
-  {
     "name": "Cheshire Cat AI Conversation Logger",
     "url": "https://github.com/skeyby/ccat_conversation_logger"
   },
@@ -354,5 +350,117 @@
   {
     "name": "Amazon Bedrock LLMs",
     "url": "https://github.com/ggiallo28/amazon-bedrock-llms"
+  },
+  {
+    "name": "Aleph Alpha Integration",
+    "url": "https://github.com/nickprock/aleph-alpha-integration"
+  },
+  {
+    "name": "Formulas Fur Latex",
+    "url": "https://github.com/enricollen/FormulasFurLatex"
+  },
+  {
+    "name": "White Rabbit In Action",
+    "url": "https://github.com/lucagobbi/white-rabbit-in-action"
+  },
+  {
+    "name": "Local Whisper Cat",
+    "url": "https://github.com/LorenzoSiena/local_whisper_cat"
+  },
+  {
+    "name": "YTWrAIter",
+    "url": "https://github.com/chemickypes/YTWrAIter"
+  },
+  {
+    "name": "Regolo.ai LLM integration",
+    "url": "https://github.com/regolo-ai/cheshirecat-plugin"
+  },
+  {
+    "name": "Query Compressor",
+    "url": "https://github.com/pieroit/query_compressor"
+  },
+  {
+    "name": "Haloperidol - No hallucinations",
+    "url": "https://github.com/pieroit/haloperidol"
+  },
+  {
+    "name": "Cat Data Backup",
+    "url": "https://github.com/ap-70/cat_data_backup"
+  },
+  {
+    "name": "Dot Commands",
+    "url": "https://github.com/sambarza/cc-dot-commands"
+  },
+  {
+    "name": "Weather plugin",
+    "url": "https://github.com/Slav0DPigna/Weather-plugin"
+  },
+  {
+    "name": "Catcloak",
+    "url": "https://github.com/lucagobbi/catcloak"
+  },
+  {
+    "name": "Ccat Groups",
+    "url": "https://github.com/Tiestaa/ccat_groups"
+  },
+  {
+    "name": "CaterpillarForms",
+    "url": "https://github.com/lucagobbi/CaterpillarForms"
+  },
+  {
+    "name": "Catnesina",
+    "url": "https://github.com/redringofdeath/catnesina"
+  },
+  {
+    "name": "Cat Overflow",
+    "url": "https://github.com/scicco/cat-overflow"
+  },
+  {
+    "name": "Sitemap Crawler",
+    "url": "https://github.com/alessandrodorazio/sitemap-crawler"
+  },
+  {
+    "name": "Voyage AI Embeddings",
+    "url": "https://github.com/lucagobbi/voyageai"
+  },
+  {
+    "name": "Miaotore",
+    "url": "https://github.com/davidebizzocchi/miaotore"
+  },
+  {
+    "name": "Folder Ingestor",
+    "url": "https://github.com/davidebizzocchi/folder-ingestor"
+  },
+  {
+    "name": "Magic Arbiter AI",
+    "url": "https://github.com/vancif/cat-magic-arbiter"
+  },
+  {
+    "name": "Cat File Generator",
+    "url": "https://github.com/davidegavio/cat-file-generator"
+  },
+  {
+    "name": "SuperCatForm",
+    "url": "https://github.com/lucagobbi/super-cat-form"
+  },
+  {
+  "name": "Header and Footer CATter",
+  "url": "https://github.com/mallibus/header_footer_cat_plugin"
+  },
+  {
+    "name": "Cat on a Petals",
+    "url": "https://github.com/scicco/cat-on-a-petals"
+  },
+  {
+    "name": "MultiCat",
+    "url": "https://github.com/davidebizzocchi/multicat"
+  },
+  {
+    "name": "Moon - fAIry",
+    "url": "https://github.com/tresanti/moon_fairy_plugin"
+  },
+  {
+    "name": "Run Python",
+    "url": "https://github.com/Pingdred/run_python"
   }
 ]
