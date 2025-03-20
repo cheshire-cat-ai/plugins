@@ -466,5 +466,9 @@
   {
     "name": "Value investor analysis",
     "url": "https://github.com/silv3ri0/value_analysis"
+  },
+  {
+    "name": "Tavily Search",
+    "url": "https://github.com/federicopalma-pro/tavily-search"
   }
 ]
