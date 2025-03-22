@@ -466,5 +466,9 @@
   {
     "name": "Value investor analysis",
     "url": "https://github.com/silv3ri0/value_analysis"
+  },
+  {
+    "name": "apt-cat - apt-get :install:",
+    "url": "https://github.com/canapaio/apt-cat"
   }
 ]
