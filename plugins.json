@@ -470,5 +470,8 @@
   {
     "name": "Tavily Search",
     "url": "https://github.com/federicopalma-pro/tavily-search"
+  },
+    "name": "apt-cat - apt-get :install:",
+    "url": "https://github.com/canapaio/apt-cat"
   }
 ]
