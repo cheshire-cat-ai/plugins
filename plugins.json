@@ -474,5 +474,9 @@
   {
     "name": "Tavily Search",
     "url": "https://github.com/federicopalma-pro/tavily-search"
+  },
+  {
+    "name": "Filtered Document Search",
+    "url": "https://github.com/vincenzolegrottaglie/filtered-document-search"
   }
 ]
