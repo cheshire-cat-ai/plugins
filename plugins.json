@@ -478,5 +478,9 @@
   {
     "name": "Tavily Search",
     "url": "https://github.com/federicopalma-pro/tavily-search"
+  },
+  {
+    "name": "Kokoro Cat",
+    "url": "https://github.com/pazoff/Kokoro-Cat"
   }
 ]
