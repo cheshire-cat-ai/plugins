@@ -482,5 +482,9 @@
   {
     "name": "Kokoro Cat",
     "url": "https://github.com/pazoff/Kokoro-Cat"
+  },
+  {
+    "name": "Filtered Document Search",
+    "url": "https://github.com/vincenzolegrottaglie/filtered-document-search"
   }
 ]
