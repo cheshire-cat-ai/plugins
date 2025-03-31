@@ -486,5 +486,9 @@
   {
     "name": "Filtered Document Search",
     "url": "https://github.com/vincenzolegrottaglie/filtered-document-search"
+  },
+  {
+    "name": "Voices",
+    "url": "https://github.com/giufus/voices"
   }
 ]
