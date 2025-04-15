@@ -490,5 +490,9 @@
   {
     "name": "Voices",
     "url": "https://github.com/giufus/voices"
+  },
+  {
+    "name": "Telegram Message Sender",
+    "url": "https://github.com/zhangmjcn/telegram-message-sender-for-cheshire-cat"
   }
 ]
