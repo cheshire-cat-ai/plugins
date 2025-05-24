@@ -494,5 +494,9 @@
   {
     "name": "Telegram Message Sender",
     "url": "https://github.com/zhangmjcn/telegram-message-sender-for-cheshire-cat"
+  },
+  {
+    "name": "No Think Plugin for The Cat (Qwen3)",
+    "url": "https://github.com/canapaio/q3_no_think"
   }
 ]
