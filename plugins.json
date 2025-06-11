@@ -502,5 +502,9 @@
   {
     "name": "Langfuse Connector",
     "url": "https://github.com/net7/langfuse-connector"
+  },
+  {
+    "name": "Hate Defender",
+    "url": "https://github.com/net7/hate-defender"
   }
 ]
