@@ -498,5 +498,9 @@
   {
     "name": "No Think Plugin for The Cat (Qwen3)",
     "url": "https://github.com/canapaio/q3_no_think"
+  },
+  {
+    "name": "Langfuse Connector",
+    "url": "https://github.com/net7/langfuse-connector"
   }
 ]
