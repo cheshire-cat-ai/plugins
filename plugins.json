@@ -444,8 +444,8 @@
     "url": "https://github.com/lucagobbi/super-cat-form"
   },
   {
-  "name": "Header and Footer CATter",
-  "url": "https://github.com/mallibus/header_footer_cat_plugin"
+    "name": "Header and Footer CATter",
+    "url": "https://github.com/mallibus/header_footer_cat_plugin"
   },
   {
     "name": "Cat on a Petals",
@@ -502,5 +502,9 @@
   {
     "name": "Langfuse Connector",
     "url": "https://github.com/net7/langfuse-connector"
+  },
+  {
+    "name": "Vision PDF parser",
+    "url": "https://github.com/matteo-brandolino/ccat_vision_pdf_parser"
   }
 ]
