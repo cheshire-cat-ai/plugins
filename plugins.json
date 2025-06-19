@@ -504,6 +504,10 @@
     "url": "https://github.com/net7/langfuse-connector"
   },
   {
+    "name": "Hate Defender",
+    "url": "https://github.com/net7/hate-defender"
+  },
+  {
     "name": "UnstructuredCat",
     "url": "https://github.com/asterbini/UnstructuredCat"
   }
