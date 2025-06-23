@@ -514,5 +514,9 @@
   {
     "name": "Vision PDF parser",
     "url": "https://github.com/matteo-brandolino/ccat_vision_pdf_parser"
+  },
+  {
+    "name": "Declarative Memory API Plugin",
+    "url": "https://github.com/mc9625/mem_retriever"
   }
 ]
