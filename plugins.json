@@ -518,5 +518,9 @@
   {
     "name": "Declarative Memory API Plugin",
     "url": "https://github.com/mc9625/mem_retriever"
+  },
+  {
+    "name": "OpenAI API Bridge",
+    "url": "https://github.com/mc9625/cat_openai_api"
   }
 ]
