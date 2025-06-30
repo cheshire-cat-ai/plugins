@@ -522,5 +522,9 @@
   {
     "name": "OpenAI API Bridge",
     "url": "https://github.com/mc9625/cat_openai_api"
+  },
+  {
+    "name": "Document Manager",
+    "url": "https://github.com/mc9625/ccat_document_manager"
   }
 ]
