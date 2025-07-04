@@ -526,5 +526,9 @@
   {
     "name": "Document Manager",
     "url": "https://github.com/mc9625/ccat_document_manager"
+  },
+  {
+    "name": "Agent Factory",
+    "url": "https://github.com/Pingdred/agent_factory/"
   }
 ]
