@@ -530,5 +530,9 @@
   {
     "name": "Agent Factory",
     "url": "https://github.com/Pingdred/agent_factory"
+  },
+  {
+    "name": "Ragas Retriever Evaluator",
+    "url": "https://github.com/net7/ragas-retriever-evaluator"
   }
 ]
