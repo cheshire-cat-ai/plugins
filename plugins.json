@@ -534,5 +534,9 @@
   {
     "name": "Ragas Retriever Evaluator",
     "url": "https://github.com/net7/ragas-retriever-evaluator"
+  },
+  {
+    "name": "Simple Multi Chat",
+    "url": "https://github.com/net7/simple-multi-chat"
   }
 ]
