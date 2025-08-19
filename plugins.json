@@ -538,5 +538,9 @@
   {
     "name": "Simple Multi Chat",
     "url": "https://github.com/net7/simple-multi-chat"
+  },
+  {
+    "name": "ReAct Agent",
+    "url": "https://github.com/Pingdred/ccat_af_react"
   }
 ]
