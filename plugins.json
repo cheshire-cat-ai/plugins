@@ -542,5 +542,9 @@
   {
     "name": "ReAct Agent",
     "url": "https://github.com/Pingdred/ccat_af_react"
+  },
+  {
+    "name": "Claw the Ollama",
+    "url": "https://github.com/davidemodolo/claw-the-ollama"
   }
 ]
