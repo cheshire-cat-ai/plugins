@@ -538,5 +538,9 @@
   {
     "name": "Simple Multi Chat",
     "url": "https://github.com/net7/simple-multi-chat"
+  },
+  {
+    "name": "Rate Limiter",
+    "url": "https://github.com/net7/rate-limiter"
   }
 ]
