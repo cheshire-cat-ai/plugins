@@ -540,6 +540,14 @@
     "url": "https://github.com/net7/simple-multi-chat"
   },
   {
+    "name": "ReAct Agent",
+    "url": "https://github.com/Pingdred/ccat_af_react"
+  },
+  {
+    "name": "Claw the Ollama",
+    "url": "https://github.com/davidemodolo/claw-the-ollama"
+  },
+  {
     "name": "Rate Limiter",
     "url": "https://github.com/net7/rate-limiter"
   }
