@@ -546,5 +546,9 @@
   {
     "name": "Claw the Ollama",
     "url": "https://github.com/davidemodolo/claw-the-ollama"
+  },
+  {
+    "name": "Mistral OCR",
+    "url": "https://github.com/team-sviluppo/cc_mistral_ocr"
   }
 ]
