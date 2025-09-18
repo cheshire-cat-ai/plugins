@@ -550,5 +550,9 @@
   {
     "name": "Rate Limiter",
     "url": "https://github.com/net7/rate-limiter"
+  },
+  {
+    "name": "Mistral OCR",
+    "url": "https://github.com/team-sviluppo/cc_mistral_ocr"
   }
 ]
