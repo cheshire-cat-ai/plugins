@@ -554,5 +554,17 @@
   {
     "name": "Mistral OCR",
     "url": "https://github.com/team-sviluppo/cc_mistral_ocr"
+  },
+  {
+    "name": "Hybrid Search",
+    "url": "https://github.com/team-sviluppo/cc_hybrid_search"
+  },
+  {
+    "name": "Multicat Orchestrator",
+    "url": "https://github.com/team-sviluppo/cc_multicat_orchestrator"
+  },
+  {
+    "name": "Multicat Agent",
+    "url": "https://github.com/team-sviluppo/cc_multicat_agent"
   }
 ]
