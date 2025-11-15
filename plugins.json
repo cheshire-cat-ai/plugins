@@ -566,5 +566,21 @@
   {
     "name": "Multicat Agent",
     "url": "https://github.com/team-sviluppo/cc_multicat_agent"
+  },
+  {
+    "name": "Chat Anonymizer",
+    "url": "https://github.com/opencity-labs/ccat_anonymizer"
+  },
+  {
+    "name": "Context Guardian & Enricher",
+    "url": "https://github.com/opencity-labs/ccat_context_guardian_enricher"
+  },
+  {
+    "name": "Memory Updater",
+    "url": "https://github.com/opencity-labs/ccat_memory_updater"
+  },
+  {
+    "name": "Temporary Chat Authentication",
+    "url": "https://github.com/opencity-labs/ccat_temporary_chat_authentication"
   }
 ]
