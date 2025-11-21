@@ -582,5 +582,9 @@
   {
     "name": "Temporary Chat Authentication",
     "url": "https://github.com/opencity-labs/ccat_temporary_chat_authentication"
+  },
+  {
+    "name": "Web UI for Cat version 2",
+    "url": "https://github.com/cheshire-cat-ai/ui"
   }
 ]
