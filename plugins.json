@@ -582,6 +582,9 @@
   {
     "name": "Temporary Chat Authentication",
     "url": "https://github.com/opencity-labs/ccat_temporary_chat_authentication"
+  },{
+    "name": "Chat Analytics",
+    "url": "https://github.com/opencity-labs/ccat_chat_analytics"
   },
   {
     "name": "Web UI for Cat version 2",
