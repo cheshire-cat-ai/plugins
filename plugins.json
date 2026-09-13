@@ -589,5 +589,9 @@
   {
     "name": "RAG Guardrails",
     "url": "https://github.com/ScuolaNormaleSuperiore/rag-guardrails"
+  },
+  {
+    "name": "Agent Guild Evidence",
+    "url": "https://github.com/AgentTanuki/cheshire-cat-agent-guild"
   }
 ]
