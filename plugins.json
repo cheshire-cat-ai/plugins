@@ -589,5 +589,9 @@
   {
     "name": "RAG Guardrails",
     "url": "https://github.com/ScuolaNormaleSuperiore/rag-guardrails"
+  },
+  {
+    "name": "Uptime Kuma Connector",
+    "url": "https://github.com/ScuolaNormaleSuperiore/uptime_kuma_connector"
   }
 ]
