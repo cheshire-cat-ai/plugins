@@ -593,5 +593,9 @@
   {
     "name": "Uptime Kuma Connector",
     "url": "https://github.com/ScuolaNormaleSuperiore/uptime_kuma_connector"
+  },
+  {
+  "name": "RAG Interaction Logger",
+  "url": "https://github.com/ScuolaNormaleSuperiore/rag-interaction-logger"
   }
 ]
